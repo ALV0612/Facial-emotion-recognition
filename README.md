@@ -20,9 +20,7 @@ Run the Jupyter Notebook for data preprocessing, model training, and evaluation.
 ## File Structure
 - `emotion_classification.ipynb`: Main notebook for data processing and training.
 - `requirements.txt`: Required libraries.
-<<<<<<< HEAD
 
-=======
 ## Model Performance
 Below are the assumed performance metrics of the three models on the test set:
 
@@ -30,6 +28,5 @@ Below are the assumed performance metrics of the three models on the test set:
 |-------------------------|---------------|---------------------|---------------------|------------------|
 | XGBoost               | 81%           | 0.8                | 0.82                | 0.8             |
 | ExtraTrees          | 73%           | 0.7               | 0.70                | 0.73             |
->>>>>>> f1d74716d616e8ad67c295ce52a6a013eabf9297
 
 
